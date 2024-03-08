@@ -1,4 +1,4 @@
 # teszt
 
-readme.md szerkesztése
+readme.md változtatása
 valami
